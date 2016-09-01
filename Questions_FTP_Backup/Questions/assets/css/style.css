@@ -1,0 +1,55 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+.navbar-default {
+    background-color: rgb(7, 103, 53);
+    border-color: rgb(7, 103, 53);
+}
+.navbar-default .navbar-brand {
+    color: rgb(255, 255, 255);
+}
+.navbar-default .navbar-nav > li > a {
+    color: rgb(255, 255, 255);
+}
+.btn-success {
+    background-color: rgb(7, 103, 53);
+    border-color: rgb(77, 103, 53);
+    color: rgb(255, 255, 255);
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    background-color: rgb(7, 103, 50);
+    color: rgb(255, 255, 255);
+ }
+ 
+
+ .span9, .span6 {
+    position: relative;
+}
+.alignleft {
+    float: left !important;
+}
+.span9 {
+    width: 870px;
+}
+[class*="span"] {
+    float: left;
+    margin-left: 30px;
+}
+.span9 {
+    width: 700px;
+}
+[class*="span"] {
+    float: left;
+    margin-left: 20px;
+}
+header, nav, section, article {
+    display: block;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
+    display: block;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #eee;
+    background-color: transparent;
+}

@@ -1,0 +1,35 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+
+.navbar-default {
+    background-color: rgb(7, 103, 53);
+    border-color: rgb(7, 103, 53);
+}
+
+active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: rgb(7, 103, 53);
+    background-color: rgb(7, 103, 53);
+}
+
+li > a:hover {
+    color: rgb(225, 225, 225);
+    background-color: transparent;
+}
+
+.navbar-default .navbar-brand {
+    color: rgb(225, 225, 225);
+}
+
+brand:hover {
+    color: rgb(225, 225, 225);
+    background-color: rgb(225, 225, 225);
+}
+
+element {}.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {color: rgb(7, 103, 53);background-color: #eee;}.navbar-default .navbar-nav > li > a {color: #F8F5F1;}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #eee;
+    background-color: transparent;
+}

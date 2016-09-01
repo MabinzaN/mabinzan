@@ -1,0 +1,556 @@
+0|records to follow|554
+
+76133827|27721608984|Stop|2012-09-19 16:33:39|278200722929000|223269469|7bit
+76134094|27721608984|Opt in|2012-09-19 16:42:02|278200722929000|223269469|7bit
+81356312|27721535467|Thank you. I will be available to attend.|2013-03-19 14:54:17|2782007229288005|250207747|7bit
+81443870|27827779374|YES. R. Makhubela|2013-03-22 15:21:50|2782007229288024|250715127|7bit
+81444089|27832201087|Yes, N. T. M. Mbina-Mthembu 6502030804081|2013-03-22 15:30:06|2783326006288005|250719312|7bit
+81444125|27828848046|Yes|2013-03-22 15:31:41|2782007229288011|250719312|7bit
+81444205|27833789136|Yes MD Qwase 6301305057081|2013-03-22 15:34:44|2782007229288004|250719312|7bit
+81444261|27825504838|Yes. Prof. MC Nwaila|2013-03-22 15:37:31|2782007229288003|250719312|7bit
+81444271|27763898052|Yes  SJ Msibi 6109115743083|2013-03-22 15:37:51|2782007229288019|250719312|7bit
+81444817|27836286628|Yes. B. Mahlakoleng 6802235729087|2013-03-22 16:00:59|2783326006288011|250719312|7bit
+81445905|27837634222|Yes: MNP Manjezi, 6603080334084|2013-03-22 16:41:32|2783326006288002|250737406|7bit
+81446065|27798649561|YES, Mr SJ MANANA 650721 5416 080|2013-03-22 16:46:18|2784000120188021|250737406|7bit
+81446123|27845610540|YES. B Maja:7202015368082|2013-03-22 16:48:54|2783326006288018|250737406|7bit
+81446169|27828859448|YES: DH Nkwamba: 720909 5615 084|2013-03-22 16:50:51|2782007229288008|250736567|7bit
+81447185|27824145514|Thank you Madam, Charlotte Dube, 6008080992081|2013-03-22 17:33:14|2782007229288027|250736567|7bit
+81448240|27820771701|YES. Ikhraam Osman 5601235098084|2013-03-22 18:18:14|2782007229288029|250719312|7bit
+81451476|27824170390|Yes \nS Lumka\n541225 5874 085|2013-03-22 20:25:19|2782007229288014|250719312|7bit
+81456273|27823783227|Yes MSB 6705270851080|2013-03-23 01:00:17|2782007229288012|250719312|7bit
+81457759|27825519137|Yes,K . Ralikontsane :ID 631108 5528 086|2013-03-23 06:24:05|2782007229288016|250719312|7bit
+81472298|27825504838|My ID is 5311035717087 and my Title is Prof and my  initials are MC and my surname is Nwaila. Hope this will be sufficient!!\n|2013-03-23 18:14:28|2782007229288003|250730090|7bit
+81508342|27829054138|Yes-Ms Colette B Clark-                                       ID No.620112 0051 08 9.|2013-03-25 09:39:16|2782007229288015|250725018|7bit
+81517318|27828219007|No, will be represented by HC Malila, ID no 7106155128083, my DDG: Economic & Fiscal Services, Provincial Treasury Western Cape. Tx JC Stegmann|2013-03-25 14:22:32|2782007229288008|250719312|7bit
+81521921|27823314533|Yes. JB MBATHA  ID 5906066765085. Ihave already sent an email to this effect|2013-03-25 16:52:35|2782007229288009|250719312|7bit
+81551668|27836518533|Yes\nH L Kgomongwe\nID  4902035687089|2013-03-26 16:22:28|2783326006288024|250719312|7bit
+81572635|27826984298|Yes.Mj Diphofa, 6601165701086|2013-03-27 10:20:44|2782007229288008|250719312|7bit
+81579274|27829096179|MR.ZE KHUZWAYO.\nID NO:750515 5469 08 4|2013-03-27 14:09:52|2782007229288011|251753413|7bit
+81579275|27741930641|Yes. \nA.N. Molepo\nID: 7109270408083|2013-03-27 14:09:56|2784000120188029|251753413|7bit
+81579279|27784606188|Yes. S.A. Matshego. 6907270981087.|2013-03-27 14:09:59|2783326006288004|251753413|7bit
+81579377|27829089410|Yes, J C Brink. 5908120120083|2013-03-27 14:13:03|2782007229288025|251753413|7bit
+81579386|27824991559|Yes. Tsipane :6306215770087|2013-03-27 14:13:19|2782007229288028|251753413|7bit
+81579388|27827816859|YES zaid aboobaker 7412315226084|2013-03-27 14:13:21|2782007229288007|251753413|7bit
+81579445|27734735999|Yes. PM Sokhela: 6508035475082|2013-03-27 14:15:15|2783326006288030|251753413|7bit
+81579647|27829726595|Yes|2013-03-27 14:22:55|2782007229288018|251753413|7bit
+81579681|27820805888|Yes Mr.A.J.E Meyer 6406035234080|2013-03-27 14:24:03|2782007229288028|251753413|7bit
+81579780|27842948529|Yes. MSP Choabi 6504155765089|2013-03-27 14:27:47|2784000120188006|251753413|7bit
+81579816|27836622633|Yes. S. Msimang. ID No 7310235457088|2013-03-27 14:29:13|2783326006288010|251753413|7bit
+81580177|27828047361|Yes T van der Walt 5501250127083|2013-03-27 14:43:59|2782007229288030|251753413|7bit
+81580286|27829233557|YES N.W MUDAU 6110315671082 |2013-03-27 14:47:43|2782007229288011|251753413|7bit
+81580446|27769844098|Yes LM Bosch 5704220748083|2013-03-27 14:52:49|2782007229288018|251753413|7bit
+81581062|27713641140|YES M. Farelo 56100090080|2013-03-27 15:13:12|2782007229288028|251753413|7bit
+81581447|27832697916|Yes, Ailwei Mulaudzi, 7408015613084 |2013-03-27 15:27:07|2783326006288011|251753413|7bit
+81581957|27825281633|S Khumalo, 7506165529081|2013-03-27 15:45:49|2782007229288027|251753413|7bit
+81583309|27795149777|Yes. Dr S A Senabe,6610095619086 :) |2013-03-27 16:34:46|2782007229288009|251753413|7bit
+81584652|27820461430|Yes: Thusi, ID: 7302055431087|2013-03-27 17:23:21|2782007229288030|251753413|7bit
+81585080|27828874017|Yes, IV Mongale 7204215491086 |2013-03-27 17:38:38|2782007229288008|251753413|7bit
+81586067|27827779393|Yes. Linda Shange.7206030366088|2013-03-27 18:17:39|2782007229288019|251753413|7bit
+81586238|27825967331|YÉS. Mr ND Mulovhedzi. 6601215807081.|2013-03-27 18:24:26|2782007229288023|251753413|7bit
+81587792|27716795071|Yes, ntuli sb  6207285375080|2013-03-27 19:11:06|2782007229288015|251753413|7bit
+81599001|27827873665|YES L Sing 6312270158085|2013-03-28 07:25:20|2782007229288001|251753413|7bit
+81600127|27827721055|YES  Dr S Horton-Herselman 6703040881081|2013-03-28 08:20:13|2782007229288012|251753413|7bit
+81600631|27824596743|Yes. T Holdsworth 5810315082088|2013-03-28 08:40:06|2782007229288010|251753413|7bit
+81602697|27829726595|6704275743087|2013-03-28 09:52:23|2782007229288018|251894704|7bit
+81607457|27833078929|Yes, ES Nzimande, 5702090591088, Arts and Culture. |2013-03-28 12:18:35|2783326006288025|251983544|7bit
+81607469|27828051954|Yes,we have confimed for Trevor Balzer,acting DG Water Affairs|2013-03-28 12:18:47|2783326006288000|251983544|7bit
+81607514|27836415164|Please note advocate lyndon bouah will attend the summit in my place his cell number is : 0713631306 |2013-03-28 12:19:59|2783326006288013|251983544|7bit
+81607554|27825581229|Yes, K.F. Ralikontsane, 6311085528086, Department of the Premier, Free State|2013-03-28 12:20:54|2782007229288016|251983544|7bit
+81607565|27824585252|Yes: Dr T Ramontja;  Department of Mineral Resources|2013-03-28 12:21:16|2782007229288009|251983544|7bit
+81607651|27837263083|Yes\nMP Thabethe\n6512265421089\nDepartment of Agriculture and Rural Development : Free State|2013-03-28 12:23:45|2783326006288000|251983544|7bit
+81607696|27823173798|Yes, \nDR  V.  Dlamini, \n ID: 621210511087|2013-03-28 12:25:03|2782007229288010|251983544|7bit
+81607801|27823173798|Yes\nDR  V Dlamini\nID:  6212105111087\nDepartment of  economic Development   , Mpumalanga|2013-03-28 12:28:27|2782007229288010|251983544|7bit
+81607866|27720805071|M.C. Chaamano, 7203185420083, Head of Department Limpopo Public Works|2013-03-28 12:31:08|2782007229288003|251983544|7bit
+81607919|27832922558|Yes. Gugu Matlaopane  601019 0732 08 4  HoD  Dept of Health Northern Cape|2013-03-28 12:32:56|2783326006288016|251983544|7bit
+81608150|27824143386|Yes, I Geo Paul acting HOD Treasury, I D 6206056091083 will attend . Thank you.|2013-03-28 12:40:31|2782007229288018|251983544|7bit
+81608261|27784608540|Yes; DT Dlomo; 6410245356089; SSA.|2013-03-28 12:43:29|2783326006288002|251983544|7bit
+81608439|27824968260|Please note, Mr Magagula, Head of KZN Provincial Treasury will not be able to attend, please pass his apology. Regards|2013-03-28 12:49:18|2782007229288023|251983544|7bit
+81608743|27824977908|Yes. A Tlaletsi 6003195862089|2013-03-28 12:58:34|2782007229288030|251983544|7bit
+81608998|27823793454|YES, MJ Manyi, 640120 5536 083, Randwater|2013-03-28 13:06:36|2782007229288002|251983544|7bit
+81609260|27825643394|Yes\n  N Mokhesi\n5904115725085\nHOD Free State Department of Human Settlements|2013-03-28 13:15:59|2782007229288023|251983544|7bit
+81609283|27824962933| Yes Nnana Manamela COGHSTA Limpopo 6001280808082|2013-03-28 13:16:44|2782007229288022|251983544|7bit
+81609341|27824962933| Yes Nnana Manamela COGHSTA Limpopo 6001280808082|2013-03-28 13:18:59|2782007229288022|251983544|7bit
+81609604|27832927411|Yes. J D Nel. 5806055009083|2013-03-28 13:27:05|2782007229288002|251753413|7bit
+81610872|27761412110|Yes. Z.K. Buthelezi. 7401060332080. Department of Sport and Recreation, KZN.\r\r\r|2013-03-28 14:10:47|2782007229288028|251983544|7bit
+81612179|27823072071|Yes\nDr HM Wesso\nDeputy Director-General\nDept. of Communications\n5212165139086|2013-03-28 14:54:58|2782007229288026|251983544|7bit
+81612957|27828923599|Yes SE Mokoko 520422 5757 080\n\nYes GL Bosvark  77113 0345 084\n|2013-03-28 15:21:59|2782007229288014|251983544|7bit
+81613281|27824412149|Yes H Fast, 6306190271085, Dept of Local Government, Western Caoe|2013-03-28 15:33:00|2782007229288019|251983544|7bit
+81617108|27823708550|Didn't I say mr loate should go to this one ?|2013-03-28 17:30:41|2782007229288004|251983544|7bit
+81618219|27833274950|Yes. T Radebe 5610080782080 Centre for Public Service Innovation|2013-03-28 18:09:18|2783326006288028|251983544|7bit
+81633566|27842135303|Yes. N Yeni 7211060386089|2013-03-29 07:41:46|2784000120188029|251753413|7bit
+81647228|27828012101|Yes! Name T. E. Motumi; ID No.6308065382088; Dept: Military Veterans (DMV); Ministry of Defence and Military Veterans.|2013-03-29 17:23:53|2782007229288000|251983544|7bit
+81648406|27794963482|Yes S Jonkers 6602205122085 dept of Transport, Safety and Liaison|2013-03-29 18:18:01|2782007229288010|251983544|7bit
+81692823|27828019708|Yes, TW ZULU, ID no.6701085651088, DG:Dept of Human Settlements.|2013-03-31 15:50:31|2782007229288000|251983544|7bit
+81699823|27845894850|YES\nSP THWALA, 6812065366082|2013-03-31 20:48:34|2784000120188023|251753413|7bit
+81707444|27828928317|I will be there|2013-04-01 08:45:18|2782007229288017|251983544|7bit
+81707446|27828928317|Yes|2013-04-01 08:45:34|2782007229288017|251983544|7bit
+81718876|27824143386|Yes I am attending. I send required info to you. Pls confirm. Geo Paul|2013-04-01 16:32:22|2782007229288018|251983544|7bit
+81742747|27824585252|Yes Dr T Ramontja: 5803115920086; Department of Mineral Resources|2013-04-02 11:19:38|2782007229288009|251983544|7bit
+81748382|27824403073|A D Mbewu\n6001155953088\nCEO\nGovernment Printing Works|2013-04-02 13:45:10|2782007229288000|251983544|7bit
+81750451|27828244544|Yes. NL Mlangeni 6008220660085  Social Department Mpumalanga|2013-04-02 14:46:44|2782007229288018|251983544|7bit
+81757789|27836457838|Did the DP have lunch?|2013-04-02 18:21:44|2783326006288006|252692643|7bit
+81762828|27782917849|Yes, Executive Mayor Fezile Dabi Distric Municipality, Mr. M Notsi - ID 5202145832083. Protector - Mr. KG Motitsoe ID - 7804245644081|2013-04-02 20:20:53|2783326006288011|251983544|7bit
+81765043|27834479401|Noted with thanks.|2013-04-02 21:30:57|2782007229288012|252710273|7bit
+81765192|27832201087|Hi. A bit late to receive these requirements as we are already in Gauteng without them|2013-04-02 21:36:05|2783326006288005|252710273|7bit
+81769985|27837093003|YES SNS Nts?mane 7303295791082|2013-04-03 05:52:57|2783326006288021|252716729|7bit
+81779581|27713834187|Will do thank you|2013-04-03 10:46:24|2782007229288006|252783461|7bit
+81779638|27825281633|Dear Mr Deputy President, What is your views regarding the shifting of the responsibility of human resource management from EAs to HOD? |2013-04-03 10:48:03|2782007229288027|252783461|7bit
+81779768|27829775370|\nwhy are we having so many acting dg appointments in national govt depts? why are salaries of dgs managing soes not competitive enough to that of ceo|2013-04-03 10:50:43|2782007229288020|252783461|7bit
+81779775|27829775370|s of agencies that they manage? when are going to have fair reward system for sms members, eg in doc there public servants who have been on probation|2013-04-03 10:50:46|2782007229288020|252783461|7bit
+81779776|27829775370| for over 7 years, without confirmation, forfeiting bonuses yet delivering..why is dpsa not inteverning\n\n|2013-04-03 10:50:48|2782007229288020|252783461|7bit
+81779782|27836270585|How many people must die on our roads before we enact cost effective  remedial measures?|2013-04-03 10:50:52|2782007229288025|252783461|7bit
+81779844|27825519137|What can be done to retain DGs and HODs in the Public Service ?|2013-04-03 10:52:15|2782007229288016|252710273|7bit
+81779942|27836336808|e victimised officials? |2013-04-03 10:54:48|2783326006288019|252783461|7bit
+81779943|27836336808|The high turn over of senior managers due to differences with their  political leaders is acknowledged, what is DPSA role on coming to the rescue of thes|2013-04-03 10:54:48|2783326006288019|252783461|7bit
+81779983|27823725375|What are the reasons from a political point of view for DG's leaving before end of contract. Could it be political interference/pressure.|2013-04-03 10:55:55|2783326006288026|252783461|7bit
+81780000|27836282720| fast track orientation? |2013-04-03 10:56:15|2783326006288012|252783461|7bit
+81780001|27836282720|1) Administration and Political Dichotomy remains a huge challenge. Blurred understanding of roles and responsibilities including delegations. How can we|2013-04-03 10:56:15|2783326006288012|252783461|7bit
+81780002|27825765725|The success of the national  development plan also depends on the motivated public servants machinery expecially senior excecutives. Why the proposal or |2013-04-03 10:56:16|2782007229288012|252783461|7bit
+81780011|27825765725|decision that for this financial year the Public Senior Excecutives will not receive their salary increace,pay progressions and performance bonuses?|2013-04-03 10:56:19|2782007229288012|252783461|7bit
+81780083|27835767376|Ok|2013-04-03 10:57:45|2783326006288001|252783461|7bit
+81780120|27836336808|I am yet to feel the leadership and advirsory role of DPSA government departments. Is this summit a sign of claiming their rightful role?|2013-04-03 10:58:31|2783326006288019|252783461|7bit
+81780135|27825519137|One critical factor is the transformation of the Judiciary.Why is there a reluctance on the site of government to decisively address this ?|2013-04-03 10:58:55|2782007229288016|252710273|7bit
+81780159|27828387440|MR Acting President, we talk about NDP, but are we meeting the Millenium Development Goals for next year? We stiLl have bucket toilets and schools under |2013-04-03 10:59:26|2782007229288007|252783461|7bit
+81780161|27828387440|trees and mud schools|2013-04-03 10:59:35|2782007229288007|252783461|7bit
+81780165|27827743501|Yes will participate|2013-04-03 10:59:43|2782007229288021|252783461|7bit
+81780236|27824554220|South Korea, Malaysia, etc had very succefull 30 year development plans implemented. Their success is based on skills dev and one leader for about 30 yea|2013-04-03 11:01:27|2782007229288016|252783461|7bit
+81780239|27824554220|rs. You comment pls Mr Deputy President. From Solly Kgopong  |2013-04-03 11:01:30|2782007229288016|252783461|7bit
+81780266|27713531499|Is there a way of retaining institutional memory of Accounting Officers. Gaster Sharpley |2013-04-03 11:02:10|2782007229288004|252783461|7bit
+81780426|27836286628|Mr President do u have stats of suspendf Dgs or Hods. What is govt |2013-04-03 11:05:58|2783326006288011|252783461|7bit
+81780427|27836286628|doing abt ths esp victim?sation|2013-04-03 11:05:58|2783326006288011|252783461|7bit
+81780428|27835836364|Thank you|2013-04-03 11:05:58|2783326006288002|252783461|7bit
+81780456|27828369435|To the DPSA Minister, considering the recent AG's report wrt amounts gov depts spend on consultants; do we have a readily skilled public service that can|2013-04-03 11:07:04|2782007229288026|252783461|7bit
+81780467|27828369435| operate independent of consultancy; or is it sustainable to appoint snr managers whose job is to make requesting memos/submissions for the same jobs the|2013-04-03 11:07:14|2782007229288026|252783461|7bit
+81780476|27828369435|se snr managers are hired to do? are there plans to curb this problem? Risenga|2013-04-03 11:07:24|2782007229288026|252783461|7bit
+81780598|27829775370|Research shows that there is s direct link between Political leadership and Departmental performance. are there initiatives to build the leadership c|2013-04-03 11:10:51|2782007229288020|252783461|7bit
+81780602|27829775370|apacity of political to lead state departments in a manner that enhances government performance  - Dumisani Hlophe|2013-04-03 11:10:52|2782007229288020|252783461|7bit
+81780872|27836282720|Can we agree on 5 things that we'll do well even if we don't excel on others? Concerned Limpho |2013-04-03 11:18:36|2783326006288012|252783461|7bit
+81780873|27824554220|Why don't we declare and say no to all public servants doing business and make it law: Period. Solly|2013-04-03 11:18:39|2782007229288016|252783461|7bit
+81780981|27823349324|Anthony Moonsamy: Gauteng COGTA:Greetings Mr Acting President : the issue of Critical and Scarce Skills Program requires much attention , in particular t|2013-04-03 11:21:05|2782007229288025|252783461|7bit
+81780985|27823349324|he attraction and Retention of technical skills, these skills are highly mobile to the private sector , even our Metros who have the buying capacity for |2013-04-03 11:21:07|2782007229288025|252783461|7bit
+81780989|27823349324|skills, the private sector poaches as soon as we have trained artisans and engineers, how are we going partner in a more concrete way to supply the suffi|2013-04-03 11:21:17|2782007229288025|252783461|7bit
+81780996|27823349324|cient skills to service delivery areas!|2013-04-03 11:21:25|2782007229288025|252783461|7bit
+81781085|27828055173|DP. Ms HOD. Why do we have a trend of women managers being suspended by women Ministers or HOd's? Can DPSA conduct a survey on this? |2013-04-03 11:23:35|2782007229288019|252783461|7bit
+81781681|27836282720|Modernizing Government is no longer an option but a critical necessity. WAY FORWARD? Ms Delegate |2013-04-03 11:40:06|2783326006288012|252783461|7bit
+81781818|27764219215|The air condition is very cold. Surely we don't want a flu-ridden public service in the next few days.|2013-04-03 11:44:26|2782007229288009|252783461|7bit
+81782151|27835767376|What an interesting session!|2013-04-03 11:53:29|2783326006288001|252783461|7bit
+81782355|27823725375|ill end at 1900. We from provinces need to travel back and arranged our flights ito original programme. Will therefor have to miss last 3 speakers. JF|2013-04-03 11:59:19|2783326006288026|252783461|7bit
+81782356|27823725375|Organisers. It is a  pity that the original programme indicated that the summit will end at 1730. The final programme (only provided now) shows that it w|2013-04-03 11:59:20|2783326006288026|252783461|7bit
+81783158|27827404510|Will we also get Premier Nomvula's welcome address?|2013-04-03 12:19:54|2782007229288025|252816194|7bit
+81783386|27836270585|LWSituma-How can we improve technical skills and professionalism  when  the local academic institutions have not got serious and relevant applied science|2013-04-03 12:25:47|2782007229288025|252816194|7bit
+81783393|27836270585|s curriculum ?|2013-04-03 12:25:56|2782007229288025|252816194|7bit
+81783639|27833997286|Honourable Manuel: (1) the success of the NDP is dependent on its stable implementation over time: how can this be cushioned from the possible negative i|2013-04-03 12:33:12|2782007229288026|252816194|7bit
+81783643|27833997286|mpacts of the "political leadership revolving door" at ruling party level which comes with the tendencies to chance, rather than sustain existing plans a|2013-04-03 12:33:20|2782007229288026|252816194|7bit
+81783647|27833997286|nd programmes. (2). There is a clear link between political leadership and government performance - how does the NDP envisage to undertake political lead|2013-04-03 12:33:28|2782007229288026|252816194|7bit
+81783652|27833997286|ership capacity building in leading government institutions (this is different from political leadership at an Organisational level) towards enhanced gov|2013-04-03 12:33:36|2782007229288026|252816194|7bit
+81783664|27833997286|ernment performance. Dumisani Hlophe.|2013-04-03 12:33:45|2782007229288026|252816194|7bit
+81783714|27823725375| to assist and above all to deliver the service that is expected by the public. JF|2013-04-03 12:35:12|2783326006288026|252816194|7bit
+81783715|27823725375|TM. Don't you think the AG's insistance on 110% compliance without the proper modern  financial systems ( accounting, scm, asset management, etc) is a co|2013-04-03 12:35:12|2783326006288026|252816194|7bit
+81783716|27823725375|nstraint to  implementation. As a accounting officer of a big department it is almost impossible to comply 100%, prevent fraud/corruption without systems|2013-04-03 12:35:12|2783326006288026|252816194|7bit
+81783780|27829096179|Minister Sisulu,There is an anecdotal evidence that, to some extent, professionalisation of some occupations within the public service does contribute to|2013-04-03 12:36:54|2782007229288011|252816774|7bit
+81783784|27829096179| the level of committment on the part of part of individual in executing their duties.Therefore wouldn't it  be a step in the right direction that the Mi|2013-04-03 12:36:58|2782007229288011|252816774|7bit
+81783788|27829096179|nister to identify few more occupations critical to the public service transformation and service delivery for statutory registration.In this way, their |2013-04-03 12:37:02|2782007229288011|252816774|7bit
+81783793|27829096179|appointment is based on legal professional registrations.The individual's  continual professions development becomes the responsibility of the individual|2013-04-03 12:37:05|2782007229288011|252816774|7bit
+81783798|27829096179|, while th professional conduct is overseen and regulated by a professional body/ies. Thanks,Z.Khuzwayo,DPSA.|2013-04-03 12:37:08|2782007229288011|252816774|7bit
+81784160|27828369435|Min Manuel, what's the NDP position on fight against graft that has cancerously besieged the public service and private sector alike, and what does it sa|2013-04-03 12:46:04|2782007229288026|252816194|7bit
+81784163|27828369435|y about capacitating corruption busting agencies? Risenga|2013-04-03 12:46:14|2782007229288026|252816194|7bit
+81784312|27827761960| only solve conflict by working through the conflict and dealing with it - not by ignoring it and hiding behind the law. Anthony Barnes|2013-04-03 12:50:16|2783326006288030|252816194|7bit
+81784313|27827761960|lise decision making power at national department level - what is your opinion on this? Related is the inability of officials to deal with conflict - you|2013-04-03 12:50:16|2783326006288030|252816194|7bit
+81784314|27827761960| spheres of government (mostly national) prevents the working together to ensure service delivery - this is clearly seen by the various efforts to centra|2013-04-03 12:50:16|2783326006288030|252816194|7bit
+81784315|27827761960| common good who would solve the problems. The big problem - is attitudes and bloated ego's of officials - who are the major causes of inertia in various|2013-04-03 12:50:16|2783326006288030|252816194|7bit
+81784316|27827761960|ive governance - because the drafters knew that the Constitution would not solve all - instead it is people sitting around a table with a common goal for|2013-04-03 12:50:16|2783326006288030|252816194|7bit
+81784317|27827761960|ers of our Constitution were wise because they knew that the Constitution would not be a perfect document - this is why we have the provision of cooperat|2013-04-03 12:50:16|2783326006288030|252816194|7bit
+81784318|27827761960|Minister Manual - we tend to blame the Constitution for its lack of clarity as a reason for poor service delivery - I would venture to say that the draft|2013-04-03 12:50:16|2783326006288030|252816194|7bit
+81784469|27823757122|SA have to agree on what is right, and what is wrong. There should be no grey areas\nNC Del|2013-04-03 12:54:40|2783326006288016|252816194|7bit
+81784616|27836282720|to improve service delivery. Ms Delegate |2013-04-03 13:00:09|2783326006288012|252816194|7bit
+81784617|27836282720|Minister SISULU, is SITA capable of delivering? SMS are we really embracing the opportunities presented by these ICTs for socio-economic development and |2013-04-03 13:00:09|2783326006288012|252816194|7bit
+81784618|27836282720|A challenge to all SMS present at the 2013 Leadership Summit. UK is very serious on the usage and uptake of Information Communication Technology (ICTs). |2013-04-03 13:00:09|2783326006288012|252816194|7bit
+81784754|27798735874|ngratulated his son and said, 'Son, I'm proud of you, that now you will be manufacturing sticks of matches in-house' The son tried to explain his inabili|2013-04-03 13:04:07|2783326006288004|252816194|7bit
+81784755|27798735874|Minister Manual. My grand father was overwhelmed with joy when one of his son got a BSc degree instead of the traditional BA degree he was used to. He co|2013-04-03 13:04:07|2783326006288004|252816194|7bit
+81784756|27798735874|ty to meet his father expectations. The old man then said, you wasted 15 years of your life in education, but you cannot manufacture even a j of matches.|2013-04-03 13:04:07|2783326006288004|252816194|7bit
+81784757|27798735874|the country? Joe.|2013-04-03 13:04:07|2783326006288004|252816194|7bit
+81784758|27798735874| No, no, no my boy just forget!!! I wonder if we have addressed my grand fathers' expectations in our life time. Is education responsive to the needs of |2013-04-03 13:04:07|2783326006288004|252816194|7bit
+81785168|27827779393|Minister Manuel|2013-04-03 13:15:25|2782007229288019|252816774|7bit
+81785236|27834606500|ice bearers use to employees to flush them out of the office and later replace them with their pals? |2013-04-03 13:17:15|2783326006288017|252817900|7bit
+81785237|27834606500|Minister Manuel ,  how is the national development plan going to deal with the level of corporate harrasment and violence, intimidation that criminal off|2013-04-03 13:17:15|2783326006288017|252817900|7bit
+81789279|27828055173|Minister PJ. Ms hod. How are you going to assist whistle blowers especially at senior management level|2013-04-03 15:14:03|2782007229288019|252880332|7bit
+81789640|27824776326|Moor: How will RSA contribute financially in BRICS bank since it is debt. What is best in addressing the growth, Is it the Stronger/Weaker rand-How?|2013-04-03 15:23:43|2782007229288012|252880332|7bit
+81789712|27828055173|Minister Gordhan. What is being said here is not happening on the ground. When are we going to start doing something with corruption?|2013-04-03 15:25:30|2782007229288019|252880332|7bit
+81790463|27827761960| only solve conflict by working through the conflict and dealing with it - not by ignoring it and hiding behind the law. Anthony Barnes|2013-04-03 15:44:51|2783326006288030|252880332|7bit
+81790464|27827761960|ers of our Constitution were wise because they knew that the Constitution would not be a perfect document - this is why we have the provision of cooperat|2013-04-03 15:44:51|2783326006288030|252880332|7bit
+81790465|27827761960|ive governance - because the drafters knew that the Constitution would not solve all - instead it is people sitting around a table with a common goal for|2013-04-03 15:44:51|2783326006288030|252880332|7bit
+81790466|27827761960|Minister Manual - we tend to blame the Constitution for its lack of clarity as a reason for poor service delivery - I would venture to say that the draft|2013-04-03 15:44:51|2783326006288030|252880332|7bit
+81790467|27827761960| spheres of government (mostly national) prevents the working together to ensure service delivery - this is clearly seen by the various efforts to centra|2013-04-03 15:44:51|2783326006288030|252880332|7bit
+81790468|27827761960|lise decision making power at national department level - what is your opinion on this? Related is the inability of officials to deal with conflict - you|2013-04-03 15:44:51|2783326006288030|252880332|7bit
+81790469|27827761960| common good who would solve the problems. The big problem - is attitudes and bloated ego's of officials - who are the major causes of inertia in various|2013-04-03 15:44:51|2783326006288030|252880332|7bit
+81791078|27716084119|delegate J.\nMinister Gordhan the administration on 2009/14 brought in a new approach to doing government work-the Outcomes Approach-the Treasury Prog|2013-04-03 16:00:46|2782007229288023|252880332|7bit
+81791080|27716084119|ramme and Budget Structure is not has not adapted to this approach as such it makes it difficult to monitor non financial performance versus financia|2013-04-03 16:00:48|2782007229288023|252880332|7bit
+81791082|27716084119|l performance. When is Treasury going mainstream the outcomes approach in all its budget management systems and processes.|2013-04-03 16:00:51|2782007229288023|252880332|7bit
+81791188|27832895616|My name is Sibongile. SITA costs militate against ICT growth in the country. We spend an Arm and a leg, can we save and get out of this Contract?|2013-04-03 16:03:50|2783326006288021|252880332|7bit
+81791213|27824776326|Moor: There is no follow ups on Monitoring and Evaluation at diff Departments Government spheres.|2013-04-03 16:04:34|2782007229288012|252880332|7bit
+81792263|27834606500|Minister Chabane ! M&E could b very effective if we get the support to deliver on the performance contracts but it appears that the black n white perform|2013-04-03 16:29:27|2783326006288017|252880332|7bit
+81792264|27834606500|ance contracts r not often a priority. How is your office assisting in aligning performance contracting of officials with what is really needed . |2013-04-03 16:29:27|2783326006288017|252880332|7bit
+81793084|27823725375|I hope all the sleeches and predentations will be sent to the participants. JF|2013-04-03 16:46:27|2783326006288026|252880332|7bit
+81793109|27836282720|Please remind delegates to return to plenary URGENTLY.. |2013-04-03 16:46:56|2783326006288012|252880332|7bit
+81793311|27823725375|ems to assist and above all to deliver the service that is expected by the public. JF|2013-04-03 16:51:45|2783326006288026|252880332|7bit
+81793312|27823725375|Mr AG. Don't you think the AG's insistance on 110% compliance without the proper modern  financial systems ( accounting, scm, asset management, etc) is a|2013-04-03 16:51:45|2783326006288026|252880332|7bit
+81793313|27823725375| constraint to  implementation. As a accounting officer of a big department it is almost impossible to comply 100%, prevent fraud/corruption without syst|2013-04-03 16:51:45|2783326006288026|252880332|7bit
+81793748|27828055173|Adv Thuli. Well spoken. How do we protect whistle blowers?|2013-04-03 17:02:22|2782007229288019|252927456|7bit
+81793790|27832895616|Minister Pravin Gordan, the SITA costs are not in the spirit of getting Goods at Cost price at this rate ICT and e Government wl not take off. Please intervene|2013-04-03 17:03:29|2783326006288021|252927456|7bit
+81793832|27761560719|Thuli Madonsela.  Receiving many cases of corruption and maladministration is a reflection of failure of governance. This is happening despite the va|2013-04-03 17:04:38|2782007229288029|252927456|7bit
+81793837|27761560719|rious interventions that the democratic government to introduce policies considered at times as amongst the very best in the world. What do you think|2013-04-03 17:04:42|2782007229288029|252927456|7bit
+81793840|27761560719| is the underlying reason for this anomaly? What should be don or lacking in thi situation?  Good Governor|2013-04-03 17:04:45|2782007229288029|252927456|7bit
+81793862|27828055173|Ms Hod. Adv Thuli. How do we make sure that there is productivity, good governance and leadership in the public service?|2013-04-03 17:05:27|2782007229288019|252927456|7bit
+81794719|27833244408|Delegate from EC - Failure to share information on the findings from the Public Protector & other investigations conducted in depts I think is the bigges|2013-04-03 17:29:54|2782007229288028|252927456|7bit
+81794727|27833244408|t weakness that causes the perception of corruption to continue & inability for the organisations to learn from these mistakes! How can this be corrected|2013-04-03 17:30:04|2782007229288028|252927456|7bit
+81794728|27833244408|? |2013-04-03 17:30:12|2782007229288028|252927456|7bit
+81795044|27798735874|ssues or is an admission that these Section 9 institution have failed their oversight functions and failed to bring the offenders to the book. Are you no|2013-04-03 17:40:00|2783326006288004|252927456|7bit
+81795045|27798735874|ve failed. Now you are replacing  Commercial law by  Marshal law. The poor remains poor, and the rich gets more. I think, more research on this matter is|2013-04-03 17:40:00|2783326006288004|252927456|7bit
+81795046|27798735874| needed. Majority of black people are employed by state, They do not have capital to start business. They save from the little they get from their salari|2013-04-03 17:40:00|2783326006288004|252927456|7bit
+81795047|27798735874|ficials from doing business with state. I think is unfair and unconstitutional. It is a reflection of loss control and a short cut in dealing with real i|2013-04-03 17:40:00|2783326006288004|252927456|7bit
+81795048|27798735874|Delegate. Public Protector, I'm proud of the work you doing for this country, I only need more ABET onthe following- This matter of banning Government Of|2013-04-03 17:40:00|2783326006288004|252927456|7bit
+81795049|27798735874|es and start investing in small business initiatives. That is a fact. When you say stop. You must say which door is real opened. |2013-04-03 17:40:00|2783326006288004|252927456|7bit
+81795050|27798735874|t discriminating those who have worked sincerely and put their savings towards business ventures. Are you saying SCM policies, PSA and its regulations ha|2013-04-03 17:40:00|2783326006288004|252927456|7bit
+81795423|27834606500|Adv Madonsela, There are instances where one is left with no option than being a cheque collector recognising the sophisticated nature of working circums|2013-04-03 17:51:15|2783326006288017|252927456|7bit
+81795424|27834606500|tances that makes productivity impossible. Can officials consider your office to address their safety&security or protection requiring dilemmas while in |2013-04-03 17:51:15|2783326006288017|252927456|7bit
+81795425|27834606500|the employ of the state for the sake of improving productivity even before considering other personal interventions ? |2013-04-03 17:51:15|2783326006288017|252927456|7bit
+81795488|27761560719|Proffessor Levin.    Don' t you think there is a need for the Role of PSC to be reviewed given the evidences of inefficiencies emanating from practic|2013-04-03 17:53:08|2782007229288029|252927456|7bit
+81795490|27761560719|es as a result of the Public Service Act provisions regarding the EA and AO for example the poor management of delegations which affect the productiv|2013-04-03 17:53:12|2782007229288029|252927456|7bit
+81795493|27761560719|ity of the AO but where authority lies with the AO?|2013-04-03 17:53:15|2782007229288029|252927456|7bit
+81795506|27761560719|Proffessor Levin.    Don' t you think there is a need for the Role of PSC to be reviewed given the evidences of inefficiencies emanating from practic|2013-04-03 17:53:50|2782007229288029|252927456|7bit
+81795511|27761560719|es as a result of the Public Service Act provisions regarding the EA and AO for example the poor management of delegations which affect the productiv|2013-04-03 17:53:55|2782007229288029|252927456|7bit
+81795512|27761560719|ity of the AO but where authority lies with the AO?  Good Governer.|2013-04-03 17:53:59|2782007229288029|252927456|7bit
+81795821|27834606500|Prof Levin. When it comes to performance contracting, how best can a surbordinate ensure that a supervisor finds it necessary to formally contract one's |2013-04-03 18:02:57|2783326006288017|252927456|7bit
+81795822|27834606500|performance contract, given that policies are already in place yet it can be very difficult to have one signed. |2013-04-03 18:02:57|2783326006288017|252927456|7bit
+81796501|27826130798|To: AG, PP, is it not corruption when provincial or national department seconds personnel to municipalities #limitless# for over a 3 year period without |2013-04-03 18:23:41|2782007229288002|252927456|7bit
+81796505|27826130798|reviewing that secondmend & whilst the incumbent receives remuniration from both 'his principal employer' & including an additional salary where he is se|2013-04-03 18:23:44|2782007229288002|252927456|7bit
+81808529|27825555834|Hi\nPlease submit my apologies as I am at an exco meeting of DPW.  Kenny |2013-04-04 06:39:38|2782007229288006|252951564|7bit
+81838786|27716084119|much appreciated the honour was ours|2013-04-04 21:29:24|2782007229288023|253160408|7bit
+81842157|27798735874|hat you are doing, God is on our side! We love this country! We love our leaders! Siyabulela! Thanks indeed! Mhlomi.|2013-04-04 23:39:41|2783326006288004|253160408|7bit
+81842158|27798735874|We also want to thank the Minister and her Department for inviting us. It is indeed a job well done!  Indeed South Africa is in good hands! Continue do w|2013-04-04 23:39:41|2783326006288004|253160408|7bit
+81842165|27832895616|Thanks for the opportunity|2013-04-04 23:40:10|2783326006288021|253160408|7bit
+82065603|27798838227|Dpsa testing short code|2013-04-12 16:24:12|31022|0|7bit
+82118770|27824777181|Reply works|2013-04-14 20:03:01|2782007229288028|256170757|7bit
+82149825|27825555834|Noted\n\nKenny |2013-04-15 20:51:35|2782007229288006|256362816|7bit
+82170720|27823731570|  :) |2013-04-16 15:33:28|2782007229288015|256415437|7bit
+82170722|27823731570| |2013-04-16 15:33:33|2782007229288015|256415437|7bit
+82386216|27796651973|Gipson: Testing Questions|2013-04-24 10:14:48|2782007229288014|258298200|7bit
+82396296|27796651973|Testing again|2013-04-24 16:18:27|2782007229288014|258298200|7bit
+82396697|27796651973|Dpsa testing 31022|2013-04-24 16:34:56|31022|0|7bit
+82416708|27713832352|DPSA; how are you?|2013-04-25 11:07:48|31022|0|7bit
+82448764|27837485483|Dpsa. Hello|2013-04-26 11:43:06|31022|0|7bit
+82448767|27716236344|Dpsa: please send your email|2013-04-26 11:43:12|31022|0|7bit
+82448783|27828466010|DPSA is this for real?|2013-04-26 11:43:36|31022|0|7bit
+82572376|27817118733|Dpsa holla|2013-04-30 17:41:02|31022|0|7bit
+82572428|27817118733|Dpsa holla|2013-04-30 17:42:12|31022|0|7bit
+82572487|27817118733|Dpsa holla|2013-04-30 17:44:02|31022|0|7bit
+82598148|27796651973|Dpsa sms to 31022 to ask your question|2013-05-01 13:31:11|31022|0|7bit
+82599015|27823899023|Dpsa this system has potential|2013-05-01 14:04:58|31022|0|7bit
+82605941|27796651973|Dpsa Gauteng Finance|2013-05-01 18:22:56|31022|0|7bit
+82606031|27796651973|Dpsa this awesome|2013-05-01 18:25:57|31022|0|7bit
+82612418|27817118733|Dpsa final test|2013-05-01 21:45:39|31022|0|7bit
+82612474|27828819165|Dpsa testing from Arinao|2013-05-01 21:47:21|31022|0|7bit
+82622793|27828819165|Dpsa welcome everyone|2013-05-02 09:39:41|31022|0|7bit
+82623740|27796651973|Dpsa sms to 31022 and start with Dpsa|2013-05-02 10:11:06|31022|0|7bit
+82623770|27824698741|Dpsa are we getting 10 percent increases?|2013-05-02 10:11:55|31022|0|7bit
+82623874|27711323488|DPSA , when is the dpsa resolution on level amendements (9 & 10)  going to be implemented?|2013-05-02 10:14:18|31022|0|7bit
+82623898|27787831898|DPSA: I want to find out about the implementation of circular ..... Which states the level 12 and 10 to be automatically absorbed as to when is Gauteng T|2013-05-02 10:15:07|31022|0|7bit
+82623899|27787831898|reasury going to implement that as KZN and NC treasury has implemented that as our HR indicates that they are still seeking clarity at DPSA|2013-05-02 10:15:07|31022|0|7bit
+82623970|27787831898|DPSA: How to deal with staff morale at units as some of us are demoralized and need help????? |2013-05-02 10:16:46|31022|0|7bit
+82623999|27794179466|DPSA: are there any chances that the current interns will be absorbed??|2013-05-02 10:17:45|31022|0|7bit
+82624225|27832091260|DPSA Dear MEC your term in service is coming to an end in 2014. Do you have intentions to stay or not?|2013-05-02 10:24:33|31022|0|7bit
+82624393|27837115012|"DPSA", when are we giong to have "groom your own programe", after all charity does begining @ home, instead of people being promoted outside the Dept? |2013-05-02 10:28:51|31022|0|7bit
+82624422|27738187239|Dpsa-what is the reason or thinking behind the department's expelling of our children in the building after school during working hours? Can we engage in|2013-05-02 10:29:50|31022|0|7bit
+82624423|27738187239| finding a solution that will benefit all including our children? |2013-05-02 10:29:50|31022|0|7bit
+82625317|27729947002|DPSA- What is the measure taken to address same job duties perfomance, when colleagues are in different salaries 11 and 12, Would you agree that this is |2013-05-02 10:50:58|31022|0|7bit
+82625321|27729947002|not sensable?|2013-05-02 10:51:03|31022|0|7bit
+82625387|27734429630|DPSA how can i be CEO of the province on level6|2013-05-02 10:52:30|31022|0|7bit
+82625576|27827986332|Dpsa :Favouritism in the work place. How do we deal with that. |2013-05-02 10:58:06|31022|0|7bit
+82625748|27837279439|Dpsa What is the salary entry level at Treasury?|2013-05-02 11:01:55|31022|0|7bit
+82626053|27718879927|Dpsa ,the treatment we get from senior management at SRM  is appauling,are we entitled to compalin?are they allowed to treat us like dirt and not respect|2013-05-02 11:09:47|31022|0|7bit
+82626055|27718879927| us? We do not want to be victimised for telling the truth!|2013-05-02 11:09:48|31022|0|7bit
+82626332|27737523224|DPSA'We work hard the whole year, but when it come's to performance bonus, we dont qualify for it, how come, same people every year they receive it no ma|2013-05-02 11:15:53|31022|0|7bit
+82626333|27737523224|tter what?|2013-05-02 11:15:53|31022|0|7bit
+82626366|27738187239|Dpsa-the question regarding CFO n level 6,its like MEC said we as Treasury are like the CFO of Gauteng mara we are still on Level 6 |2013-05-02 11:16:48|31022|0|7bit
+82626392|27827986332|DPSA:I am a PA and I am miserable.  I need  a tranfer. But I am scared of my boss.|2013-05-02 11:17:28|31022|0|7bit
+82627021|27735879084|Dpsa I would like to find out the process that was used when   Treasury adobted staff from GDF other were automatical given level 8 but for us our job ha|2013-05-02 11:35:14|31022|0|7bit
+82627022|27735879084|s to be evaluated to prove that we deserve a high level than 6.|2013-05-02 11:35:14|31022|0|7bit
+82627656|27726459138|Dpsa Food service aid are on salary level 4 or 5 in other depts except those in GPT. When is GPT going to amend salary level 2?|2013-05-02 11:55:05|31022|0|7bit
+82627716|27827986332|Dpsa: I work under PAS and I am very demoralised. |2013-05-02 11:56:33|31022|0|7bit
+82628053|27738664721|DPSA the cubicles in ground floor (reception area) are frustrating us, is either we fix them and work properly or we do away with them.|2013-05-02 12:06:50|31022|0|7bit
+82628288|27835750177|DPSA,Do we have timeframe(when is it coming to end) for the BBEEE pragramme,cause it is the main cause of fraud and corruption in SCM.e.g. by  over charg|2013-05-02 12:13:33|31022|0|7bit
+82628289|27835750177|ing the departments,nepotisim.e.tc|2013-05-02 12:13:33|31022|0|7bit
+82628373|27832674020|DPSA Middle and senior management in Fiscal Policy and Economic Analysis Unit treat their subordinates very bad. Can they be taken for emotional intellig|2013-05-02 12:15:05|31022|0|7bit
+82628374|27832674020|ence and people management courses urgently? We have already lost 3 colleagues since January and I am next|2013-05-02 12:15:05|31022|0|7bit
+82628977|27717426147|DPSA: on the final assessment, what is a 3.5 score? Is it a 3 or a 4? Who makes this decision? Wat does the policy say?|2013-05-02 12:30:25|31022|0|7bit
+82629413|27849769521|DPSA : de results of employee cultural survey were appalling, especially in SRM en PAS. What does it mean to you as de HOD?|2013-05-02 12:42:18|31022|0|7bit
+82629872|27761910711|DPSA: The department has been underspending on its budget overall, the budget has been revised downward twice during the adjustment. I have applied t|2013-05-02 12:55:27|31022|0|7bit
+82629877|27761910711|o study a Master programme for the past two years, however I have not been allocated at least 50  percent to cover the cost, yet there is underspendi|2013-05-02 12:55:32|31022|0|7bit
+82629878|27761910711|ng. Is this what we call caring and empowering GPT. We appeal for financial assistance.|2013-05-02 12:55:35|31022|0|7bit
+82749065|27845008500|Yes|2013-05-06 12:16:28|2783326006288001|259750027|7bit
+82749071|27829233557|Yes |2013-05-06 12:16:35|2782007229288011|259750027|7bit
+82749075|27718630401|Yes|2013-05-06 12:16:40|2783326006288027|259750027|7bit
+82749076|27817118733|Yes|2013-05-06 12:16:41|2781160020088019|259750027|7bit
+82749085|27828226063|Yes|2013-05-06 12:16:49|2782007229288018|259750027|7bit
+82749110|27824634806|Yes|2013-05-06 12:17:30|2782007229288001|259750027|7bit
+82749121|27827017065|Yes.|2013-05-06 12:17:46|2782007229288006|259750027|7bit
+82749142|27828010969|Yes|2013-05-06 12:18:08|2782007229288000|259750027|7bit
+82749313|27728453159|Yes|2013-05-06 12:22:36|2782007229288023|259750027|7bit
+82749403|27825698215|Yes|2013-05-06 12:25:36|2782007229288010|259750027|7bit
+82749434|27824122788|Yes|2013-05-06 12:26:59|2782007229288029|259750027|7bit
+82749478|27823380778|Yes|2013-05-06 12:28:17|2782007229288000|259750027|7bit
+82749480|27824941999|Yes|2013-05-06 12:28:19|2782007229288026|259750027|7bit
+82749502|27823191353|Yes, pls sent invitation to Fundiswa.Jokozela@dcs.gov.za|2013-05-06 12:29:20|2782007229288030|259750027|7bit
+82749544|27716712245|YES|2013-05-06 12:30:39|2782007229288017|259750027|7bit
+82749572|27837743790|YES|2013-05-06 12:31:32|2782007229288006|259750027|7bit
+82749816|27833161934|YES|2013-05-06 12:39:27|2783326006288005|259750027|7bit
+82750684|27828871012|YES|2013-05-06 13:07:57|2782007229288005|259750027|7bit
+82751031|27795072735|Yes|2013-05-06 13:19:14|2782007229288029|259750027|7bit
+82751332|27829027243|Yes|2013-05-06 13:30:30|2782007229288001|259750027|7bit
+82751388|27832514041|YES|2013-05-06 13:32:56|2783326006288018|259750027|7bit
+82751896|27714758416|yes|2013-05-06 13:50:49|2782007229288021|259750027|7bit
+82752061|27832593970|Yes|2013-05-06 13:56:20|2783326006288007|259750027|7bit
+82754271|27766878894|Yes|2013-05-06 15:09:03|2782007229288028|259750027|7bit
+82755256|27769850398|YES|2013-05-06 15:39:27|2782007229288005|259750027|7bit
+82755396|27828549728|Yes|2013-05-06 15:44:52|2782007229288000|259750027|7bit
+82756350|27764130096|YES|2013-05-06 16:17:21|2782007229288029|259750027|7bit
+82756943|27836014326|Yes|2013-05-06 16:35:57|2783326006288016|259750027|7bit
+82762252|27823191353|She's my PA.|2013-05-06 19:21:12|2782007229288030|259755422|7bit
+82766128|27836291060|YES |2013-05-06 21:09:18|2783326006288011|259750027|7bit
+82779186|27833766786|YES|2013-05-07 11:06:23|2783326006288018|259750027|7bit
+82806136|27828047361|How long will power stay off? Must staff stay in building or go home?|2013-05-08 08:43:09|2782007229288030|260011965|7bit
+82835119|27824257130|Yes! Ms Kgatliso Hamilton will represent CPSI|2013-05-09 07:06:53|2782007229288015|259750027|7bit
+82933146|27827812388|Top|2013-05-12 19:01:53|2782007229288018|260493432|7bit
+82975535|27836270318|YES|2013-05-14 10:57:23|2783326006288024|259750027|7bit
+82982661|27828882126|Yes|2013-05-14 15:15:02|2782007229288017|259750027|7bit
+83036986|27824529060|Yes|2013-05-16 11:55:04|2782007229288003|259750027|7bit
+83041248|27833265122|Yes|2013-05-16 14:09:53|2783326006288009|259750027|7bit
+83136470|27796651973|Dpsa Test|2013-05-20 07:35:12|31022|0|7bit
+83136874|27836457838|DPSA, Good morning|2013-05-20 07:58:34|31022|0|7bit
+83138489|27829058695|DPSA will new DG's and top management also attend the school|2013-05-20 09:02:28|31022|0|7bit
+83140598|27823604685|DPSA how do we deal with cadre deployment of unqualified cadres? |2013-05-20 10:18:55|31022|0|7bit
+83140625|27824257130|Dpsa:Think DG Palama should be part of the panel answering our questions.|2013-05-20 10:19:54|31022|0|7bit
+83140904|27796651973|Dpsa school of goverment is a key to professionalisation of public service|2013-05-20 10:28:50|31022|0|7bit
+83141410|27796651973|Dpsa (To ask question sms to 31022 start with the word Dpsa)|2013-05-20 10:43:43|31022|0|7bit
+83141523|27828021752|Dpsa. Can we be advised of what would be contained in the curriculum of the new school of government. |2013-05-20 10:48:03|31022|0|7bit
+83141625|27791505764|Dpsa What exactly went wrong wit PALAMA d@ u wil improve on the school of government?|2013-05-20 10:51:58|31022|0|7bit
+83141642|27768466828|Dpsa. Thank you Minister for being an example of a professional public servant.|2013-05-20 10:52:27|31022|0|7bit
+83141761|27827779374|DPSA: Minister, we need an entry exam in the Public Service to complement the recruitment practices, to ensure that we have quality employees coming in t|2013-05-20 10:57:20|31022|0|7bit
+83141764|27827779374|he service rather than only trying to correct people already appointed.|2013-05-20 10:57:22|31022|0|7bit
+83141862|27828021752|Dpsa. What format is the new school going to take? A gov department, a parastatal, entity or is it still to be dermined? |2013-05-20 11:01:20|31022|0|7bit
+83141965|27835791119|DPSA Will the school of Government open up their curriculum and also make the content more accessible to those in disadvantaged situations?|2013-05-20 11:04:38|31022|0|7bit
+83141987|27828213598|DPSA. We at our university are busy recurriculating our public managemnt diploma. Hence who do we engage with in your dept to ensure that our diploma is |2013-05-20 11:05:21|31022|0|7bit
+83141988|27828213598|fit for purpose for public servants and relevant to your  cause to restore proffessionalism. |2013-05-20 11:05:23|31022|0|7bit
+83142026|27828021752|Dpsa. Where will the school be?|2013-05-20 11:07:06|31022|0|7bit
+83142032|27828021752|Dpsa. Where will the school be?|2013-05-20 11:07:18|31022|0|7bit
+83142047|27832999050|Dpsa Please tell us more about the practical structure of the School, eg will IICs of Palama still be utilised to deliver training?|2013-05-20 11:07:51|31022|0|7bit
+83142080|27820449543|Dpsa School of Government is a great initiative. I think the curriculum will help answer most concerns - will it be publicised for comments from the public? |2013-05-20 11:08:56|31022|0|7bit
+83142832|27765900597|Dpsa. Training is one aspect of employee life cycle, professionalisation should look at the entire value chain. We can have the best curriculum, but if w|2013-05-20 11:34:20|31022|0|7bit
+83142835|27765900597|e don't transform the entire system in the public service, we will keep on changing strategy year in year out. |2013-05-20 11:34:23|31022|0|7bit
+83234022|27721608984|Dpsa welcome|2013-05-23 14:17:36|31022|0|7bit
+83234046|27721608984|Dpsa great idea|2013-05-23 14:18:37|31022|0|7bit
+83234100|27721608984|Dpsa school of government is innovative idea|2013-05-23 14:20:49|31022|0|7bit
+83234190|27796651973|dpsa testing|2013-05-23 14:25:18|31022|0|7bit
+83324690|27721608984|Dpsa cio |2013-05-26 19:48:57|31022|0|7bit
+83324729|27721608984|Dpsa cio summit|2013-05-26 19:50:27|31022|0|7bit
+83324752|27721608984|Dpsa what is the role of a gito ?|2013-05-26 19:51:22|31022|0|7bit
+83338721|27823191353|Good Day, please note that I'm already in Cape Town for the DCS awards and budget vote, I will be attending CIO summit as well. Regards Nthabiseng Mosupye|2013-05-27 11:01:55|2782007229288030|266037890|7bit
+83345170|27721608984|Dpsa what is the role of sita in IT strategy development ?|2013-05-27 14:10:00|31022|0|7bit
+83345190|27829027243|Colleagues,\n\nDue to unforseen circumstances I wont be able to make it for the tonight arrival.  But I'll join you all tomorrow morning before the start o|2013-05-27 14:10:34|2782007229288001|266037890|7bit
+83345193|27829027243|f the Summit.  \n\nKind regards,\nM. Xaba (CIO)\nNDoHS|2013-05-27 14:10:36|2782007229288001|266037890|7bit
+83345679|27721608984|Dpsa to ask a question sms to 31022 start with the word dpsa. |2013-05-27 14:27:08|31022|0|7bit
+83351648|27825711727|DPSA where is the coffee|2013-05-27 17:47:07|31022|0|7bit
+83368348|27828367112|Dpsa you can now ask questions|2013-05-28 09:45:13|31022|0|7bit
+83368747|27721608984|Dpsa to ask a question sms to 31022 start with the word dpsa. |2013-05-28 09:59:19|31022|0|7bit
+83368787|27721608984|Dpsa To ask a question sms to 31022 start with the word dpsa. |2013-05-28 10:00:18|31022|0|7bit
+83370076|27721608984|Dpsa to ask a question sms to 31022 start with the word dpsa. |2013-05-28 10:40:16|31022|0|7bit
+83371359|27796651973|Dpsa (To ask question sms to 31022 start with the word Dpsa)|2013-05-28 11:20:53|31022|0|7bit
+83371885|27724356168|Dpsa Minister, what is the role of SITA in broadband roll out|2013-05-28 11:35:37|31022|0|7bit
+83372173|27825715466|DPSA is there a joint working framework agreement between DPSA and DOC and SITA in line with the overall ICT strategy of the country . Patrick|2013-05-28 11:42:20|31022|0|7bit
+83372199|27836534987|Dpsa it's good to talk about infrastructure but what about content especially in education starting from grade R promoting estrategy?|2013-05-28 11:42:51|31022|0|7bit
+83372213|27828883666|Dpsa With the mentioned plans and strategies there seems to be consensus that there are challenges in the execution and measurement of projects. How do w|2013-05-28 11:43:18|31022|0|7bit
+83372215|27828883666|e open up communications between departments to ensure we execute right first time. Eren Ramdhani|2013-05-28 11:43:21|31022|0|7bit
+83372233|27827864817|Dpsa What is SITA going to Do to ensure continuity as we know when new leadership comes in they also have their own plans on what are the things they|2013-05-28 11:43:56|31022|0|7bit
+83372234|27827864817| wAnt to Implement. The changes are affecting the industry terribly....|2013-05-28 11:43:58|31022|0|7bit
+83372270|27829091851|DPSA: how does the department plan to work around the high costs of broadband.|2013-05-28 11:45:11|31022|0|7bit
+83372276|27784646047|Dpsa: 1.Job creation, when are we going to improve the recruitment process in government, its costly for poor people, waist of paper, time consuming, the|2013-05-28 11:45:27|31022|0|7bit
+83372278|27784646047| process takes forever etc |2013-05-28 11:45:27|31022|0|7bit
+83372279|27827864817|Dpsa What is SITA going to Do to ensure continuity as we know when new leadership comes in they also have their own plans on what are the things they|2013-05-28 11:45:29|31022|0|7bit
+83372281|27827864817| wAnt to Implement. The changes are affecting the industry terribly....|2013-05-28 11:45:31|31022|0|7bit
+83372282|27824656081|Minister, how are we going to monitor that in the rural areas the indicated truly will understand the messages they  can access through TV, and which lan|2013-05-28 11:45:33|2782007229288006|266266671|7bit
+83372289|27824656081|guage will be used? Will they|2013-05-28 11:45:41|2782007229288006|266266671|7bit
+83372297|27823371008|Dpsa: Minister and Sujo, how do we deal with overlaps of synergies between Sentech, Telkom and Sita as some of their activities overlap?|2013-05-28 11:45:59|31022|0|7bit
+83372306|27832122373|Dpsa.\rMinister, what is the role of Brandband Infraco and Sentech in rolling out Broadband|2013-05-28 11:46:14|31022|0|7bit
+83372313|27823191353|DPSA, does the new policy look at integrating all the broadband and related ICT uptake in all departments?|2013-05-28 11:46:26|31022|0|7bit
+83372336|27828209031|DPSA,what is the role of provinces in the roll out of broadband.The draft policy is silent about this.|2013-05-28 11:47:01|31022|0|7bit
+83372358|27835567957|DPSA  ICT will service enable service delivery. Yet the clarity of this link is not apparent to even seasoned management teams who still view IT as a sup|2013-05-28 11:47:28|31022|0|7bit
+83372361|27829297866|Dpsa. Thank you and well done South Africa. How can we fast track the Ndp, people, process and services based on our current challenges that are visible |2013-05-28 11:47:32|31022|0|7bit
+83372362|27829297866|to the public?|2013-05-28 11:47:32|31022|0|7bit
+83372371|27828871012|DPSA - what are the target dates for broadband implementation and rollout?|2013-05-28 11:47:45|2782007229288005|266266671|7bit
+83372443|27827870169|Dpsa What is the DOC going to do to help revitalise the FOSS policy? We need to create more local idea capital, innovation and people making technology a|2013-05-28 11:49:00|31022|0|7bit
+83372444|27827870169|nd foss can help with that.|2013-05-28 11:49:02|31022|0|7bit
+83372448|27823395819|dpsa Must a municipality  still have an independent ICT strategy? Who will make sure that the many ICT strategies are aligned? |2013-05-28 11:49:07|31022|0|7bit
+83372454|27829027243|Dpsa, \n\nWhere is the implementation plan and time Frame for the delivery of all these very well documented Government ICT Strategy Plans?\n\nMandla Xaba\nNDoHS\n|2013-05-28 11:49:19|31022|0|7bit
+83372501|27836291060|DPSA What is the strategy of ensuring that Local Government as a sphere not Department is not left out in the good plans of Government especially the imp|2013-05-28 11:50:31|31022|0|7bit
+83372502|27836291060|limentation of such polices?|2013-05-28 11:50:31|31022|0|7bit
+83372600|27828883666|Dpsa government needs to partner with vendors (trusted advisors) who have helped achieve these objectives for private sector businesses|2013-05-28 11:51:35|31022|0|7bit
+83372608|27828871012|DPSA - why can't we implement any of these strategies?|2013-05-28 11:51:41|2782007229288005|266268406|7bit
+83372615|27824143685|Dpsa Looking at scarcity of ICT skills general, is there no grant funding meant to enhance ICT skills for gradugates and internships which could be acces|2013-05-28 11:51:47|31022|0|7bit
+83372628|27824143685|sible to municipalities - similaer to Infrastructure Skills Grant, if there's one available how could it be accessed? |2013-05-28 11:51:56|31022|0|7bit
+83372636|27823191353|DPSA What happened to the Industry obligation to roll out infrastructure to the under serviced areas via UNiversal services agency?. Is the new policy ch|2013-05-28 11:52:02|31022|0|7bit
+83372643|27823191353|anging that failed system?|2013-05-28 11:52:05|31022|0|7bit
+83372757|27828860748|DPSA After the adoption of the Broadband strategy/policy when can we expect the\n implementation specifically in Municipalities which are mostly rural \n\n\n\n|2013-05-28 11:53:08|31022|0|7bit
+83372768|27836547706|Dpsa how would enterprise architecture improve service delivery?|2013-05-28 11:53:16|31022|0|7bit
+83372871|27828883666|Dpsa SAPS should have smart devices where fines can be captured electronically in the field. Can be used for several purposes efficiently|2013-05-28 11:54:57|31022|0|7bit
+83372918|27826795450|DPSA The success of broadband in Korea was due to free computer and internet training coupled with infrastructure. What programs do we have in place to p|2013-05-28 11:55:56|31022|0|7bit
+83372927|27823191353|dpsa  Who is the lead agency in this broadband policy rollout?|2013-05-28 11:56:03|31022|0|7bit
+83372931|27826795450|rovide both free computer and internet training?|2013-05-28 11:56:06|31022|0|7bit
+83373022|27828209031|DPSA,why is the Minister talking about delivery of text books using the post office while we have mobile platforms/devices.Surely this is taking us backw|2013-05-28 11:58:14|31022|0|7bit
+83373028|27828209031|ard & taking jobs from SMMEs who r currently central to performing this function.|2013-05-28 11:58:22|31022|0|7bit
+83373029|27823380778|Dpsa. Minister what is your take on the funding of ICT initiatives VS the costs of doing ICT business? |2013-05-28 11:58:23|31022|0|7bit
+83373052|27828883666|Dpsa one can not manage what one can't measure. If one can't measure we can't execute. How can we improve??|2013-05-28 11:59:17|31022|0|7bit
+83373170|27828883666|Dpsa one can not manage what one can't measure. If one can't measure we can't execute. How can we improve??|2013-05-28 12:02:03|31022|0|7bit
+83373274|27761627199|Dpsa Is there a plan to give mandate of ICT to one ministry? Accountability and coordination purposes  |2013-05-28 12:04:17|31022|0|7bit
+83373287|27824608963|DPSA Can SITA look at the Malaysian Agency which has successes.|2013-05-28 12:04:36|31022|0|7bit
+83373340|27718598700|DPSA it seems that we are reluctant to build skills. Can we ensure that we have defined targets for this.|2013-05-28 12:06:03|31022|0|7bit
+83373562|27827864817|Dpsa What is SITA going to Do to ensure continuity as we know when new leadership comes in they also have their own plans on what are the things they|2013-05-28 12:11:37|31022|0|7bit
+83373568|27827864817| wAnt to Implement. The changes are affecting the industry terribly....|2013-05-28 12:11:40|31022|0|7bit
+83373632|27829297866|Dpsa. Minister are we as a national mature enough, have the leadership, skills and understanding of all fundamentals to take this to the next level like |2013-05-28 12:13:07|31022|0|7bit
+83373637|27829297866|other 3rd world countries.|2013-05-28 12:13:15|31022|0|7bit
+83373652|27835567957|Dpsa Datawind tablets cost around $40 each. Are we looking at low cost tablets like this the way India is?|2013-05-28 12:13:40|31022|0|7bit
+83373681|27718598700|DPSA Why combine these only to create a single point of failure.|2013-05-28 12:14:23|31022|0|7bit
+83381837|27828871012|DPSA - what is the maturity level of your organization?|2013-05-28 16:25:09|2782007229288005|266325883|7bit
+83381839|27825711727|DPSA what time is afternoon coffee???|2013-05-28 16:25:10|31022|0|7bit
+83381890|27828883666|Dpsa failing to plan is planning to fail|2013-05-28 16:26:42|31022|0|7bit
+83381896|27825514291|DPSA Which ministry does NIA report to?|2013-05-28 16:26:51|31022|0|7bit
+83381898|27823380778|Dpsa. does it mean that Korea has centralised ICT ministry? |2013-05-28 16:26:53|31022|0|7bit
+83381899|27822276239|Dpsa how can we learn from Korea|2013-05-28 16:26:54|31022|0|7bit
+83381955|27716877596|DPSA Very impressive planning from Korea. How many failed projects did they have since 2008?|2013-05-28 16:28:39|31022|0|7bit
+83382019|27823380778|Dpsa: How long does it take to award a tender? From planing to award? |2013-05-28 16:30:46|31022|0|7bit
+83382020|27716877596|DPSA Does this planning by agency run through all spheres of government. |2013-05-28 16:30:47|31022|0|7bit
+83382550|27823380778|Dpsa. What about software developed using proprietary tools, can one protect the IP of such source code  and patent it and share withing the goverment de|2013-05-28 16:44:22|31022|0|7bit
+83382555|27823380778|partment?  |2013-05-28 16:44:32|31022|0|7bit
+83382798|27827805409|What is all about|2013-05-28 16:51:13|2782007229288003|266331407|7bit
+83382900|27823380778|Dpsa. Is clear it should be SITA to ensure to ensure the sharing of such software which will need they maintain software projects in goverment! |2013-05-28 16:54:00|31022|0|7bit
+83383993|27828883666|Dpsa many organizations are informally re branding CIO's to CEO (chief enablement officer) why cant we convince DG's to adopt this mindset as they will n|2013-05-28 17:19:46|31022|0|7bit
+83383995|27828883666|ot do this. They are our support as much as we are their support|2013-05-28 17:19:49|31022|0|7bit
+83384020|27823380778|Dpsa. Is getting clear that we may need to have Two levels of ICT governance structure. The CIO, dealing with the business of IT and politics and lastly |2013-05-28 17:20:34|31022|0|7bit
+83384024|27823380778|the CTO, who role is the implementation of IT service delivery.   |2013-05-28 17:20:43|31022|0|7bit
+83384110|27716877596|DPSA Stop talking and being too theoretical. |2013-05-28 17:24:03|31022|0|7bit
+83384178|27716877596|DPSA Thanks Pokeng. You have outdone yourself. Great facilitation.|2013-05-28 17:25:10|31022|0|7bit
+83385119|27828292069|Give me the portal address|2013-05-28 17:51:04|2782007229288015|266336322|7bit
+83405629|27843164443|DPSA, How realistic is FOSS in South African context, shouldn't we first align our tertiary education to this ideology or rather direct our education tow|2013-05-29 09:44:10|31022|0|7bit
+83405634|27843164443|ards FOSS than current proprietary aligned education.|2013-05-29 09:44:19|31022|0|7bit
+83405659|27825734112|dpsa Government has a well defined FOSS policy These are not being implemented or enforced at any level WHY |2013-05-29 09:44:50|31022|0|7bit
+83405696|27792141372|What do u think is the best, quick way for govt to develop open source skills gap?|2013-05-29 09:46:00|2782007229288013|266396405|7bit
+83405704|27827864817|Dpsa SA used to be first in many things we are quickly becoming last and the entitlement mentality is our biggest downfall. WestAfrica is quickly ove|2013-05-29 09:46:14|31022|0|7bit
+83405707|27827864817|rtaking. SITA must really rethink its mandate.|2013-05-29 09:46:15|31022|0|7bit
+83405714|27827816859|Dpsa - we should review this policy..it cant be a priority at the momeny given the moutain of other issues we face.|2013-05-29 09:46:33|31022|0|7bit
+83405725|27837460048|Dpsa Who monitors the implementation of cabinet resolutions such as FOSS?|2013-05-29 09:46:58|31022|0|7bit
+83405727|27843164443|DPSA, How realistic is FOSS in South African context, shouldn't we first align our tertiary education to this ideology or rather direct our education tow|2013-05-29 09:46:59|31022|0|7bit
+83405734|27843164443|ards FOSS than current proprietary aligned education.|2013-05-29 09:47:07|31022|0|7bit
+83405741|27825734112|dpsa The cost of implementation of OSS is comparable to proprietary the cost savings are at a level of the sofware ownership |2013-05-29 09:47:25|31022|0|7bit
+83405753|27827864817|Dpsa SA used to be first in many things we are quickly becoming last and the entitlement mentality is our biggest downfall. WestAfrica is quickly ove|2013-05-29 09:47:52|31022|0|7bit
+83405755|27827864817|rtaking. SITA must really rethink its mandate.|2013-05-29 09:47:54|31022|0|7bit
+83405777|27832621496|Dpsa we need coordination role and all the department mentioned in the policy must be forced to play their part based on their mandate|2013-05-29 09:48:39|31022|0|7bit
+83405787|27835567957|Dpsa Have the national security implications of going foss been addressed? Given the rise in very real cyber threats and risks which are unfolding globally.|2013-05-29 09:48:59|31022|0|7bit
+83405796|27827816859|Dpsa we dont have success because there is no industry uptake.let the dst and doc develope the market and lets focus on the improving government administration|2013-05-29 09:49:11|31022|0|7bit
+83405817|27825711727|DPSA why was the FOSS office closed down at SITA.|2013-05-29 09:49:57|31022|0|7bit
+83405829|27823380778|Dpsa. Is it possible to have a clause in the policy that deals with skills development and implementation time lines  and the details thereof.  |2013-05-29 09:50:21|31022|0|7bit
+83405834|27837460048|Dpsa are departmental GITOs/CIOs capacitated enough to promote the FOSS implementation?|2013-05-29 09:50:28|31022|0|7bit
+83405845|27825734112|dpsa Many of the problems faced with the implementation of OSS is with the penetration of proprietary software in the education institutions People learn|2013-05-29 09:50:39|31022|0|7bit
+83405846|27825734112| proprietary from a young age |2013-05-29 09:50:42|31022|0|7bit
+83405888|27829240527|DPSA Procurement of FOSS can be more complex than proprietary solutions. What support can be given to Departments and entities to shape these requirements?|2013-05-29 09:52:26|31022|0|7bit
+83405895|27827816859|Dpsa Why would sita charge a dept over million rand a year for an open source portal.flies in the face of the policy objectives|2013-05-29 09:52:45|31022|0|7bit
+83405902|27825734112|dpsa Why should it be that an institution that complies to both the BOSS policy and theMIOS should be discriminated against by national treasury |2013-05-29 09:53:00|31022|0|7bit
+83406023|27825711727|DPSA *****Is it not the TCO and lack of skills the has stifiled the implementation of the FOSS policy. *****|2013-05-29 09:55:02|31022|0|7bit
+83406083|27829027243|If it was legislated in 2005 by parliament, why it's still not implemented to date and what are the hindrances?|2013-05-29 09:56:58|2782007229288001|266396405|7bit
+83406091|27825734112|dpsa  The use of proprietary software on government  desktops costs SA in excess of 2 billion rand annually we simply cannot afford this ongoing cost |2013-05-29 09:57:17|31022|0|7bit
+83406120|27822276239|Dpsa is open standard or open source expensive to maintain?|2013-05-29 09:57:58|31022|0|7bit
+83406137|27827864817|Dpsa SA used to be first in many things we are quickly becoming last and the entitlement mentality is our biggest downfall. WestAfrica is quickly ove|2013-05-29 09:58:28|31022|0|7bit
+83406138|27827816859|Dpsa mature foss solutions exist for only approx 20% of the ict landscape.why are we wasting our energies trying to priotise this.let the industry and si|2013-05-29 09:58:29|31022|0|7bit
+83406139|27827864817|rtaking. SITA must really rethink its mandate.|2013-05-29 09:58:30|31022|0|7bit
+83406141|27827816859|ta develop apps. When they have been proven we can consider them.|2013-05-29 09:58:32|31022|0|7bit
+83406169|27823380778|Dpsa. I want to belief we had skills problem and change management. That is where we need to intensify our approach, it will not make sense to penalise i|2013-05-29 09:59:13|31022|0|7bit
+83406176|27823380778|ndividuals when we had not dealt with the skills issues. What is wrong with us coming up with national skills program for ICT and get training institutio|2013-05-29 09:59:23|31022|0|7bit
+83406179|27829027243|Dpsa\n\nIf it was legislated in 2005 by parliament, why it's still not implemented to date and what are the hindrances? \n|2013-05-29 09:59:28|2782007229288001|266396405|7bit
+83406183|27823380778|ns assisting to training youth. |2013-05-29 09:59:32|31022|0|7bit
+83406207|27825734112|dpsa A question has teen raised re security around OSS maybe we should ask Google what they know that we dont there entire infrastructure is OSS |2013-05-29 10:00:19|31022|0|7bit
+83406267|27825734112|dpsa In fact Is OSS become mandatory where security issues are paramount |2013-05-29 10:02:09|31022|0|7bit
+83406341|27825734112|dpsa Should SA develop local skills in the OSS landscape then tco will dramatically decline |2013-05-29 10:04:18|31022|0|7bit
+83406359|27826505701|DPSA. Is there a compelling business argument for FOSS? Is FOSS today not really a cloud argument?|2013-05-29 10:04:41|31022|0|7bit
+83406366|27825711727|DPSA ***** SO IT IS the TCO and lack of skills that  has stifiled the implementation of the FOSS policy. *****|2013-05-29 10:04:52|31022|0|7bit
+83406396|27828883666|Dpsa we need to stop using the training aspect as an excuse for slow starts. The Internet of things has all the requisite training and skills|2013-05-29 10:05:33|31022|0|7bit
+83406520|27843164443|DPSA, maybe we need to talk of our own Government Operating Systems, before engaging on FOSS, over uncontrolled Operating Systems.|2013-05-29 10:09:35|31022|0|7bit
+83406871|27825711727|Dpsa On the desktop there is only one vetkoek supplier. Can we really get economies of scale with one vendor.  We will have competition when FOSS impleme|2013-05-29 10:21:35|31022|0|7bit
+83406874|27825711727|ntations result in alternatives for the desktop.|2013-05-29 10:21:37|31022|0|7bit
+83407129|27822276239|Dpsa Mr Ashlam as gov do u have approved courses|2013-05-29 10:29:53|31022|0|7bit
+83407551|27825734112|dpsa The change to OSS should be easy Just mandate it for all software All interoperability problems go away |2013-05-29 10:43:06|31022|0|7bit
+83407638|27828883666|Dpsa in government we need soft skills in terms of, coordination, accountability, passion, leadership, facilitation, time slicing and project management,|2013-05-29 10:45:10|31022|0|7bit
+83407639|27825734112|dpsa Why has the dept of education included vendor specific solutions as part of the curriculum Surely this is wrong|2013-05-29 10:45:10|31022|0|7bit
+83407640|27828883666| energy and passion|2013-05-29 10:45:12|31022|0|7bit
+83407755|27832621496|Dpsa Basic education is not adhering to the OSS policy and they are the critical department but prefer only microsoft.|2013-05-29 10:48:23|31022|0|7bit
+83407767|27828883666|Dpsa today is yesterday's tomorrow and tomorrow's yesterday. How do we take action today and measure success according DAILY|2013-05-29 10:48:40|31022|0|7bit
+83407824|27828209031|DPSA,Lim is surely doing well.With support from DPSA this can easily turned into a centre of excellence for the country|2013-05-29 10:50:07|31022|0|7bit
+83407855|27825734112|dpsa Try migrating users from Openoffice to MSOffice They hate it |2013-05-29 10:50:48|31022|0|7bit
+83408118|27825734112|dpsa The implementation and use of OSS is also about "ownership" Proprietary sofware solutions are usually leased from and no ownership resides with the |2013-05-29 10:57:19|31022|0|7bit
+83408122|27825734112|user How would anyone like to have only a choice of one make of motor vehicle to use and also only be able to hire it |2013-05-29 10:57:22|31022|0|7bit
+83408200|27828883666|Dpsa today is yesterday's tomorrow and tomorrow's yesterday. How do we take action today and measure success according DAILY|2013-05-29 10:59:26|31022|0|7bit
+83408558|27796651973|Dpsa (To ask question sms to 31022 start with the word Dpsa)|2013-05-29 11:11:13|31022|0|7bit
+83409259|27822276239|Inside|2013-05-29 11:34:55|2782007229288015|266425867|7bit
+83409330|27828047361|In urgent meeting|2013-05-29 11:37:05|2782007229288030|266425867|7bit
+83409990|27833265122|DPSA\nTo CSIR, what in your opinion are the key challenges of rolling out FOSS-based solutions if the benefits are as you outlined them in your presentation?|2013-05-29 11:58:33|31022|0|7bit
+83410005|27822276239|Dpsa can one migrate an already developed solution          Into the OS solution seamlessly|2013-05-29 11:59:02|31022|0|7bit
+83410108|27833265122|DPSA\nTo Dr. Cho, what advice would you give the CIO's here about the key considerations to ensure successful implementation of FOSS solutions?|2013-05-29 12:02:13|31022|0|7bit
+83410632|27825734112|dpsa Why does UNISA not support the submission of assignments in the ODF format ??|2013-05-29 12:18:56|31022|0|7bit
+83410658|27829240527|DPSA has Dr Cho reviewed our local framework? Comments?|2013-05-29 12:20:14|31022|0|7bit
+83410689|27716877596|DPSA When was the e-gov framework developed. since it is not obligatory framework what is the uptake.|2013-05-29 12:21:54|31022|0|7bit
+83410858|27829240527|DPSA lots of FOSS choices. Lots of potential divergence. How do you keep control?|2013-05-29 12:27:53|31022|0|7bit
+83410950|27828871012|DPSA - how big was the development team that built the framework?|2013-05-29 12:30:26|31022|0|7bit
+83410956|27829240527|DPSA academic based solutions maintained by concentrated skills base. how do you grow at National level?|2013-05-29 12:30:43|31022|0|7bit
+83412081|27721608984|Dpsa IT governance and foss|2013-05-29 13:10:51|31022|0|7bit
+83418565|27829240527|DPSA we spend a lot on consultants. Efficiency improvements should be part of contracts..|2013-05-29 16:29:47|31022|0|7bit
+83418688|27829240527|DPSA AG says we're not spending more on consultants than other countries.. Are we spending on the right things?|2013-05-29 16:34:42|31022|0|7bit
+83419069|27824606053|DPSA 1St presenter: the comic strip does not by chance depict the AG flying in and wacking us over the head|2013-05-29 16:47:49|31022|0|7bit
+83419155|27829240527|DPSA what about IT reducing business costs. Shouldn't we put more focus on IT investments that get us here rather than talking pure IT cost reduction..|2013-05-29 16:50:59|31022|0|7bit
+83419223|27829240527|DPSA what about IT reducing business costs. Shouldn't we put more focus on IT investments that get us here rather than talking pure IT cost reduction..|2013-05-29 16:53:38|31022|0|7bit
+83419265|27716877596|DPSA when is AG going to shift the findings for irregular expenditure in ICT procurement to the rightful home called the SITA? |2013-05-29 16:55:06|31022|0|7bit
+83419267|27827870169|Dpsa Why call for questions and then ignore them?|2013-05-29 16:55:11|31022|0|7bit
+83419318|27823380778|Dpsa. AG should be assisting to identifying the resource requirement for the 3E's of IT. |2013-05-29 16:57:26|31022|0|7bit
+83419373|27827870169|Dpsa The notion that foss has security issues is just fud. Was not an informed answer.|2013-05-29 16:59:16|31022|0|7bit
+83419412|27716877596|DPSA Why are depts audited on the Gov framework that was not yet approved in the previous year? |2013-05-29 17:00:24|31022|0|7bit
+83419478|27716877596|DPSA Is AG going to consider the fact that the implementation guidelines are still under development.|2013-05-29 17:02:37|31022|0|7bit
+83420741|27829240527|DPSA FOSS is a key driver for job creation but government does not have the capacity to absorb these skills.. Are partnerships planned with the private sector?|2013-05-29 17:47:19|31022|0|7bit
+83420804|27829240527|DPSA there is a huge gap between what we have and what we need in FOSS skills. we need ways of training the thousands not the ones and twos|2013-05-29 17:49:05|31022|0|7bit
+83420868|27716877596|DPSA Is SARS not consultants heavy?|2013-05-29 17:50:45|31022|0|7bit
+83420910|27835567957|Dpsa how is sars capturing and packaging its good practices for use by others in the state?|2013-05-29 17:52:14|31022|0|7bit
+83420921|27829240527|DPSA the value SARS obtains from ICT is incredible. How can other dept start a similar modernization journey?|2013-05-29 17:52:38|31022|0|7bit
+83420932|27716877596|DPSA The commissioner is the driver of e-filling project and hence the sucesses.|2013-05-29 17:53:07|31022|0|7bit
+83420972|27826795450|DPSA What is the size of IT budget at SARS?|2013-05-29 17:54:34|31022|0|7bit
+83420977|27829240527|DPSA SARS has relied heavily on SAP. Is FOSS an option in future?|2013-05-29 17:54:35|31022|0|7bit
+83420981|27716877596|DPSA What industry partnership model did SARS use in its journey?|2013-05-29 17:54:40|31022|0|7bit
+83421067|27824941999|DPSA How are we utilising the responsible SETA to improve the ICT skills base|2013-05-29 17:57:39|31022|0|7bit
+83421082|27835567957|DpSA The Tone at the Top at SARS is so commendable. |2013-05-29 17:58:07|31022|0|7bit
+83421166|27716877596|DPSA Is PALAMA going to be utilised for FOSS skills development if the academic institutions are not interested?|2013-05-29 18:00:30|31022|0|7bit
+83421202|27829240527|DPSA we need efficiency as well. Skills must be taught a way of working that produces results|2013-05-29 18:01:26|31022|0|7bit
+83421208|27826795450|DPSA Computer and internet training are key to both IT skills and broadband penetration. Governnent must make available at least 2 000 0000 computers to |2013-05-29 18:01:37|31022|0|7bit
+83421212|27826795450|rural communities.|2013-05-29 18:01:46|31022|0|7bit
+83421314|27716877596|DPSA SITA FOSS office must partner with academic institution to steer and develop the required skills.|2013-05-29 18:04:55|31022|0|7bit
+83421348|27829240527|DPSA should government be developing commodity skills? Isn't the private sector more suited?|2013-05-29 18:05:59|31022|0|7bit
+83421592|27835567957|Dpsa Such good messages, pity not more people here in this room to hear it.|2013-05-29 18:13:18|31022|0|7bit
+83421678|27829240527|DPSA shouldn't we look at innovation funding in public sector? Being too risk averse means inefficiency|2013-05-29 18:15:54|31022|0|7bit
+83421805|27839973327|DPSA With due respect, we are exhausted now.|2013-05-29 18:19:54|31022|0|7bit
+83439198|27824941999|DPSA! The cases refered to are quite comendable on turning around the organisation! Talk to the long term sustainability of these initiatives! What would|2013-05-30 10:43:07|31022|0|7bit
+83439202|27824941999| be ur advice on Depts on how to grow their own timber!|2013-05-30 10:43:16|31022|0|7bit
+83439232|27829240527|DPSA is benchmark driven cost reduction a good idea?|2013-05-30 10:44:00|31022|0|7bit
+83439235|27716877596|DPSA What is the best way to start with the cost reduction innitiatives? backend versus frontend?\n|2013-05-30 10:44:03|31022|0|7bit
+83439287|27825711727|DPSA one quick way to reduce costs is for SITA to align their bandwidth costs to industry.|2013-05-30 10:45:41|31022|0|7bit
+83439504|27829240527|DPSA Business case must focus on business value. Look at SARS. the it cost is not an issue when it works|2013-05-30 10:52:02|31022|0|7bit
+83439569|27824941999|DPSA! What will be the effect on the movement from inputs and outputs In the log frame to outcomes in strategic budgeting be on the operation clean audit|2013-05-30 10:54:33|31022|0|7bit
+83439574|27824941999| agenda!what capabilities will this migration require from CIOs!|2013-05-30 10:54:43|31022|0|7bit
+83439654|27825711727|DPSA one quick way to reduce costs is for SITA to align their bandwidth costs to industry.|2013-05-30 10:57:56|31022|0|7bit
+83441401|27813116443|.|2013-05-30 11:58:11|2781160020088000|266605759|7bit
+83574081|27832621496|c?_?B)|2013-06-03 13:59:07|2783326006288024|267121276|7bit
+83606455|27828292069|I cant access the website|2013-06-04 11:26:05|2782007229288015|267121276|7bit
+83698809|27827812388|K|2013-06-06 23:14:47|2782007229288018|267667142|7bit
+83698813|27827812388|U|2013-06-06 23:14:58|2782007229288018|267667142|7bit
